@@ -1,11 +1,12 @@
 <div align="center">
-### Full Stack Developer • ML Engineer • Agentic AI Builder
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Faiza%20Khadim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20ML%20Engineer%20%7C%20Agentic%20AI&descAlignY=55&descAlign=50)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiza-khadim-001700246)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/faizakhadim)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/faizaa_khadim)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizakhadim@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=faiza788&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=faiza788&style=for-the-badge&color=6366f1)
 
 *"Build things that think. Make them beautiful."*
 
@@ -34,7 +35,7 @@ class FaizaKhadim:
         ]
 
     def contact(self):
-        return "faizakhadim@gmail.com"
+        return "faizakhadim299@gmail.com"
 ```
 
 ---
