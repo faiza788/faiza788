@@ -49,7 +49,7 @@ class FaizaKhadim:
 | **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?logoColor=white) |
 | **Agentic AI** | ![AutoGen](https://img.shields.io/badge/AutoGen-black?logo=microsoft&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?logoColor=white) |
 | **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
-| **Vector DBs** | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?logoColor=white) |
+
 
 ---
 
