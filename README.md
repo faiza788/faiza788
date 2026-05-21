@@ -115,7 +115,6 @@ An AI-powered medical diagnosis system that predicts diseases from symptoms with
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faiza788&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiza788&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -126,9 +125,8 @@ An AI-powered medical diagnosis system that predicts diseases from symptoms with
 </div>
 
 <div align="center">
-  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=faiza788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faiza788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
 ---
 
 ## 📜 Certifications
