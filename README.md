@@ -116,20 +116,8 @@ An AI-powered medical diagnosis system that predicts diseases from symptoms with
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiza788&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiza788&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faiza788&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=faiza788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
----
-
----
 
 ## 📈 Contribution Activity
 
