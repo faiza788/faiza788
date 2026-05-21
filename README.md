@@ -126,7 +126,7 @@ An AI-powered medical diagnosis system that predicts diseases from symptoms with
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faiza788&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=faiza788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)" />
 </div>
 
 ---
